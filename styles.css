@@ -1,44 +1,49 @@
-*{
+* {
     font-size: 23px;
 }
-body{
+
+body {
     text-decoration: none;
     text-align: center;
     font-family: 'Acme', sans-serif;
     background-color: rgb(245, 231, 234);
 }
-nav{
-    background-color: gray;
-    
+
+nav {
+    background-color: rgb(133, 128, 128);
+
 }
-nav ul{
-   text-align: right;
+
+nav ul {
+    text-align: right;
 }
-nav ul li{
+
+nav ul li {
     display: inline-block;
     padding: 20px;
     list-style: none;
 }
-nav li a{
+
+nav li a {
     color: black;
     text-decoration: none;
 }
-li a{
+
+li a {
     margin-top: 2px;
 }
-li a:hover{
+
+li a:hover {
     color: springgreen;
     background-color: wheat;
 }
-.img{
- border-radius: 50%; 
- align-items: center;
+
+.img {
+    border-radius: 55%;
+    align-items: center;
 }
-span{
-    font-size:  500%;
-    font-weight: bolder;
-}
-.column{
+
+.column {
     float: left;
     width: 27%;
     background-color: rgb(238, 124, 25);
@@ -49,44 +54,49 @@ span{
     padding-top: 1%;
 
 }
-.row:after{
+
+.row:after {
     clear: both;
     display: table;
     content: both;
 }
-#proj{
+
+#proj {
     margin-bottom: 10%;
 }
 
 * {
-    box-sizing:border-box
+    box-sizing: border-box
 }
 
 .container {
-  width: 100%;
-  background-color: #ddd; 
+    width: 100%;
+    background-color: #ddd;
 }
 
 .skills {
-  text-align: right; 
-  padding-top: 10px; 
-  padding-bottom: 10px;
-  color: white;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
 }
 
 .html {
     width: 90%;
-     background-color: #4CAF50;
-    }
+    background-color: #4CAF50;
+}
+
 .css {
     width: 80%;
-     background-color: #4CAF50;
-    } 
-.js {
-    width: 65%; 
     background-color: #4CAF50;
-} 
-#cont{
+}
+
+.js {
+    width: 65%;
+    background-color: #4CAF50;
+}
+
+#cont {
     background-color: rgb(14, 13, 13);
     color: white;
     padding-top: 2%;
@@ -95,12 +105,34 @@ span{
     width: 100%;
     justify-content: space-evenly;
 }
-.fa{
+
+.fa {
     border: 1px solid white;
     border-radius: 0%;
 }
-#about{
+
+#about {
     background-image: url("images/Rummyjpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.s {
+    color: black;
+}
+
+.u {
+    color: brown;
+}
+
+.s {
+    color: orchid;
+}
+
+.a {
+    color: coral;
+}
+
+.n {
+    color: greenyellow;
 }
