@@ -1,15 +1,14 @@
- # Project Name
+# Project Name
 
  Portfolio
 
- ## Author Name
+# Author Name
 
  **Susan Akinyi**
 
  **suzieakinyi08@gmail.com**
 
-
- ### Description of the project
+### Description of the project
 
  Brief description of my start up journey into my career path.This is currently who I am!
 
@@ -19,7 +18,7 @@
 
                              2.CSS
 
- #### Project Set-up instructions
+#### Project Set-up instructions
 
  1.Open the *terminal* in your computer.
 
@@ -33,12 +32,10 @@
 
  6.The alternative way is to git clone my project after searching for the username **suzie254** on github.
 
- ##### Live link to My-Portfolio
+##### Live link to My-Portfolio
 
- The following is the live link to my-portfolio:
+ The following is the live link to my-portfolio:   **https://suzie254.github.io/Portfolio/**
 
- *https://antomuli.github.io/My_Portfolio./*
-
-###### Copy Right 
+###### Copy Right.
 
 Copyright (c) 2020 Moringa School- **suzie254**
